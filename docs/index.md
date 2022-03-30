@@ -20,7 +20,4 @@
 - 研究対象：カタツムリ、スズメ、植物病など
 - 研究方法：行動実験、野外操作実験、3Dモデリングなど
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
