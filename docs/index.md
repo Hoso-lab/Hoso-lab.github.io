@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
+## Evolutionary Biology Laboratory
 
-You can use the [editor on GitHub](https://github.com/Hoso-lab/Hoso-lab.github.io/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+- 早稲田大学 教育学部理学科生物学専修
+- 早稲田大学大 学院先進理工学研究科 生命理工学専攻
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+とりあえず公開。
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Membars (2022.4~)
 
 ```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
+# PI
+- 細 将貴（准教授）
+# M1
+- ３名
+- 研究対象：ヘビ、カタツムリ、ヤドカリなど
+- 研究方法：行動実験、野外操作実験、3Dプリンティングなど
+# B4
+- ７名
+- 研究対象：カタツムリ、スズメ、植物病など
+- 研究方法：行動実験、野外操作実験、3Dモデリングなど
 
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
 ```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Hoso-lab/Hoso-lab.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
