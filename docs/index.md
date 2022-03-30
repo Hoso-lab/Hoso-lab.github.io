@@ -6,7 +6,7 @@
 2021年4月に始まった、主に動物の生態学・進化生物学を研究している研究室です。
 
 
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+![This is an image](https://github.com/Hoso-lab/Hoso-lab.github.io/blob/fd79ec701d7a692092096c9d946647e1c4c71a73/docs/2018-01-31%2016.03.18.jpg)
 
 
 ### Membars (2022.4~)
